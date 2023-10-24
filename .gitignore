@@ -2,6 +2,7 @@
 *.png
 *.html
 *.gif
+.geojson
 .DS_Store
 .idea/
 __pycache__/
