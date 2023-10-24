@@ -2,7 +2,7 @@
 *.png
 *.html
 *.gif
-.geojson
+*.geojson
 .DS_Store
 .idea/
 __pycache__/
